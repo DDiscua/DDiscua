@@ -53,7 +53,7 @@ I'm David a computer science engineer, a full stack developer and a self learnin
 - MongoDB
 - Mongo Atlas
 - TypeORM
-- Secualize
+- Sequelize
 - Redis
   
 #### Logging
