@@ -71,7 +71,7 @@ I'm David a computer science engineer, a full stack developer and a self learnin
 - Kubernetes
 - Docker
 
-### Science realted works
+### Science related works
 
 - Implementation of a Global Online Platform with Microservices Architecture for Studies on Genetic Epilepsies (https://ieeexplore.ieee.org/document/8977097)
 - Spanish Epilepsy Education Available on the Web (https://www.aan.com/MSA/Public/Events/AbstractDetails/42522)
