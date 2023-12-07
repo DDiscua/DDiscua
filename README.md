@@ -77,3 +77,4 @@ I'm David a computer science engineer, a full stack developer and a self learnin
 - Spanish Epilepsy Education Available on the Web (https://www.aan.com/MSA/Public/Events/AbstractDetails/42522)
 - A New Database Platform for Clinical and Genetic Investigation of Epilepsies and the New ILAE Classification (https://www.aan.com/MSA/Public/Events/AbstractDetails/37416)
 - Impacto de los autores utilizando Teoria de grafos (https://daviddiscua.github.io/)
+- Honduras: two hurricanes, COVID-19, dengue and the need for a new digital health surveillance system (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7928791)
