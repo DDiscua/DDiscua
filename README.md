@@ -1,80 +1,71 @@
-### Hi there 👋
+## 👋 Hi there, I'm David!
 
-I'm David a computer science engineer, a full stack developer and a self learning lover. I have been working for differentes companies trough nearshore. I have been developing blockchain infrastructure, relays for gasless transactions, setup nodes operators for multiple blockchains, indexers, explorers.Frontend and backend developing,full apps with microservices and DevOps automating infrastructure for blockchains, kubernetes clusters, webapps and backend apis.
+I'm a **Computer Science Engineer**, **Full Stack Developer**, **DevOps Engineer**, and **AI Agent Developer** with 8+ years of experience building scalable applications, cloud infrastructure, and blockchain platforms.
 
-### Technolgies
+🛠 I specialize in:
+- Full Stack: **Node.js**, **React**, **Angular**
+- Cloud & Infrastructure: **AWS**, **GCP**, **Terraform**, **Kubernetes**
+- AI & LLMs: **OpenAI**, **Claude**, **Cursor**, custom agent architecture
+- Blockchain: **Avalanche**, **OpenGSN**, **gasless transactions**, validators
 
-#### Front-end
+I've collaborated with companies like **Pfizer**, **Indeed**, and **Ricoh**, delivering solutions that blend clean code, automation, and modern DevOps culture.
 
-- Javascript
-- HTML
-- Typescript
-- React
-- Angular
-- Redux
-- CSS
-- React-native
+---
 
-#### Back-end
+## 🧰 Tech Stack
 
-- NodeJS
-- ExpressJS
-- GraphQL
-- Apollo Graph
-- C#
-- Entity Framework
-- Java
+### 💻 Frontend
+- JavaScript / TypeScript / HTML / CSS
+- React / Angular / Redux
+- React Native
 
-#### Blockchain
+### 🧪 Backend
+- Node.js / Express.js
+- GraphQL / Apollo
+- C# / Entity Framework / Java
 
-- OpenGSN
-- Gasless transactions
-- Web3
-- EtherJS
-- Explorers
-- Indexer
-- Setup infrastucture to run blockchain validators such a Avalanche,Polkadot, Cardano
-- Develop Relays and apis for gasless stations.
+### 🤖 AI / LLMs / Agent Development
+- OpenAI GPT (ChatGPT API)
+- Claude (Anthropic API)
+- Cursor IDE Automation
+- LangChain / Agent Orchestration
+- AI Agents for Blockchain Monitoring
+- Prompt Engineering & Task Routing
+- Python / Apache Spark / Pandas
 
-#### Cloud
+### 🔗 Blockchain
+- Web3 / Ethers.js / OpenGSN
+- Gasless Transactions / Indexers / Explorers
+- Infrastructure for Avalanche, Polkadot, Cardano validator nodes
+- Relays & APIs for gasless networks
 
-- GCP
-- Cloud Run
-- Pub/Sub
-- GKE clusters
-- AWS
-- Elasticache
+### ☁️ Cloud
+- Google Cloud Platform (Cloud Run, Pub/Sub, GKE)
+- AWS (Elasticache, Lambda)
 - Azure
 
-#### Databases & ORM
+### 🛢 Databases & ORM
+- MongoDB / Mongo Atlas / SQL / MySQL / Redis
+- TypeORM / Sequelize
 
-- SQL
-- MySQL
-- MongoDB
-- Mongo Atlas
-- TypeORM
-- Sequelize
-- Redis
-  
-#### Logging
+### 📊 Observability
+- Datadog / Sentry
 
-- Datadog
-- Sentry
+### ⚙️ DevOps & Infra
+- GitHub Actions / GitLab CI
+- Terraform / Pulumi
+- Docker / Kubernetes / Service Fabric
 
-#### DevOps
+---
 
-- Github Actions
-- Git Lab
-- Terraform
-- Pulumi
-- Service Fabric
-- Kubernetes
-- Docker
+## 🧬 Science & Research Projects
 
-### Science related works
+- 🧠 [Global Online Platform for Genetic Epilepsies (IEEE)](https://ieeexplore.ieee.org/document/8977097)
+- 📚 [Spanish Epilepsy Education (AAN Abstract)](https://www.aan.com/MSA/Public/Events/AbstractDetails/42522)
+- 🧬 [New Database for Clinical and Genetic Investigation (AAN)](https://www.aan.com/MSA/Public/Events/AbstractDetails/37416)
+- 🧠 [Author Impact Using Graph Theory (Personal Project)](https://daviddiscua.github.io/)
+- 🩺 [Honduras Digital Health Surveillance System (NIH)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7928791)
 
-- Implementation of a Global Online Platform with Microservices Architecture for Studies on Genetic Epilepsies (https://ieeexplore.ieee.org/document/8977097)
-- Spanish Epilepsy Education Available on the Web (https://www.aan.com/MSA/Public/Events/AbstractDetails/42522)
-- A New Database Platform for Clinical and Genetic Investigation of Epilepsies and the New ILAE Classification (https://www.aan.com/MSA/Public/Events/AbstractDetails/37416)
-- Impacto de los autores utilizando Teoria de grafos (https://daviddiscua.github.io/)
-- Honduras: two hurricanes, COVID-19, dengue and the need for a new digital health surveillance system (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7928791)
+---
+
+Let’s connect and build something that merges **tech + intelligence** 🤖🚀
